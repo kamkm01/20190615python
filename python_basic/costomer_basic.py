@@ -48,8 +48,8 @@ while True:
                 break
         print(customer)
         custlist.append(customer)
+        
         print(custlist)
-        page += 1
         
 
     elif choice == 'C':
